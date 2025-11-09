@@ -79,4 +79,4 @@ This Exploratory Data Analysis successfully dissected the complex attributes of 
 
 The analysis conclusively demonstrates that a song's commercial success is not random but is strongly linked to specific, measurable audio features—primarily loudness and energy. By identifying these key drivers, profiling historical trends, and building a successful predictive model, this project provides a clear and actionable framework for understanding and leveraging the "formula for a hit" in the modern music industry.
 
-rimarily loudness and energy. By identifying these key drivers, profiling historical trends, and building a successful predictive model, this project provides a clear and actionable framework for understanding and leveraging the "formula for a hit" in the modern music industry.
+Primarily loudness and energy. By identifying these key drivers, profiling historical trends, and building a successful predictive model, this project provides a clear and actionable framework for understanding and leveraging the "formula for a hit" in the modern music industry.
